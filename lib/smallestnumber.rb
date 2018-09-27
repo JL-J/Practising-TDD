@@ -1,3 +1,4 @@
 def smallest_number(array)
-    array.each{|number| return number}
+    array.sort!
+    array[0]
 end
