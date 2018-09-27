@@ -1,3 +1,3 @@
 def smallest_number(array)
-    1
+    array.each{|number| return number}
 end
