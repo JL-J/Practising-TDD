@@ -4,7 +4,7 @@ Simple kata to practise TDD.
 
 ### Programs ###
 - odd_or_even : Returns 'odd' or 'even' when given a number
-- smallest_number : Returns the smallest number in an array. The array may contain integers, floats or strings. 
+- smallest_number : Returns the smallest *numeric* in an array. The array may contain integers, floats or strings. 
 
 ## Getting started ##
 

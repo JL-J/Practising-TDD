@@ -16,4 +16,7 @@ describe 'smallest_number' do
     it 'returns the number 8 from the array' do
        expect(smallest_number([56, 75, "snake", 89.4, "cat", 8, 99.99, "dog"])).to eq 8
     end
+    it 'returns the 3.4 from the array' do
+        expect(smallest_number([5, 3.4, 8.9, 4, 10.5])).to eq 3.4 
+    end 
 end
