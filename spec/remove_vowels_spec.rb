@@ -16,9 +16,10 @@ describe 'test_for_vowels' do
    expect(test_for_vowels("r")).to eq false
    expect(test_for_vowels("s")).to eq false
  end
+end
 
 describe 'remove_vowels' do
- it 'returns empty string for the string a'
-   expect(remove_vowels("a")). to eq ""
+ it 'returns empty string for the string a' do
+   expect(remove_vowels("a")).to eq ("")
  end
 end

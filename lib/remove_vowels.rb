@@ -5,3 +5,7 @@ def test_for_vowels(letter)
     false
   end
 end
+
+def remove_vowels(string)
+  ""
+end
