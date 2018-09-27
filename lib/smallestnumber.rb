@@ -1,4 +1,3 @@
 def smallest_number(array)
-    array.sort!
-    array[0]
+    array.select{|element| element.is_a? Numeric}.sort.first
 end
