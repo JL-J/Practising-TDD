@@ -4,7 +4,9 @@ Simple kata to practise TDD.
 
 ### Programs ###
 - odd_or_even : Returns 'odd' or 'even' when given a number
-- smallest_number : Returns the smallest *numeric* in an array. The array may contain integers, floats or strings. 
+- smallest_number : Returns the smallest *numeric* in an array. The array may contain integers, floats or strings.
+- remove_vowels : Removes all vowels from a string and returns the string
+- longest_word : Retruns the longest word from a mixed array
 
 ## Getting started ##
 
