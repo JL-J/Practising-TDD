@@ -7,4 +7,7 @@ describe 'longest_word' do
     it 'returns elephant from given array' do
         expect(longest_word(["elephant", "cat"])).to eq "elephant"
     end
+    it 'returns hamster from given array' do
+        expect(longest_word(["dog", "hamster", "cat"])).to eq "hamster"
+    end
 end

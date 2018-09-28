@@ -1,3 +1,3 @@
 def longest_word(array)
-  "cat"
+  array[0]
 end
